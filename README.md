@@ -1,2 +1,2 @@
-[link to page](tjcrozier.github.io)
+[link to page](http://tjcrozier.github.io)
 
